@@ -1,0 +1,31 @@
+{
+    "lang": "en-us",
+    "short_name": "Measurement Converter App",
+    "description": "A measurement converter application the convert meter, milimiter, centimeter, kilometer, and feet to each other",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "assets/measuring_tape_logo.png",
+            "sizes": "225x225"
+        }
+    ],
+    "screenshots": [
+        {
+          "src": "assets/screenshot_1.png",
+          "type": "image/png",
+          "sizes": "933x584",
+          "form_factor": "wide"
+        },
+        {
+          "src": "assets/screenshot_2.png",
+          "type": "image/png",
+          "sizes": "403x812",
+          "form_factor": "narrow"
+        }
+      ]
+
+}
